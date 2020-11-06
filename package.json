@@ -1,0 +1,19 @@
+{
+  "name": "cv_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giaminh2801/cv_website.git"
+  },
+  "author": "Minh Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giaminh2801/cv_website/issues"
+  },
+  "homepage": "https://github.com/giaminh2801/cv_website#readme"
+}
